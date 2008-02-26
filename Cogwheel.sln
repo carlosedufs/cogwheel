@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brazil", "Brazil\Brazil.csproj", "{325F86DA-222E-470F-A4F6-B04A3179FB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cogwheel SlimDX", "Cogwheel SlimDX\Cogwheel SlimDX.csproj", "{BA61BC42-6CB2-4913-B29A-D18D1C38113A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sega", "Sega\Sega.csproj", "{A59F09F7-37CE-409C-B290-7C6B160E0B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325F86DA-222E-470F-A4F6-B04A3179FB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325F86DA-222E-470F-A4F6-B04A3179FB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325F86DA-222E-470F-A4F6-B04A3179FB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325F86DA-222E-470F-A4F6-B04A3179FB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA61BC42-6CB2-4913-B29A-D18D1C38113A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA61BC42-6CB2-4913-B29A-D18D1C38113A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA61BC42-6CB2-4913-B29A-D18D1C38113A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA61BC42-6CB2-4913-B29A-D18D1C38113A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59F09F7-37CE-409C-B290-7C6B160E0B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59F09F7-37CE-409C-B290-7C6B160E0B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59F09F7-37CE-409C-B290-7C6B160E0B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59F09F7-37CE-409C-B290-7C6B160E0B11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
