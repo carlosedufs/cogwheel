@@ -1,0 +1,20 @@
+#summary Building the project from source.
+
+To build the latest version of Cogwheel, you can check out the source and build it yourself using free tools.
+
+== Requirements ==
+
+ * An SVN client (such as [http://tortoisesvn.tigris.org/ TortoiseSVN]).
+ * A C#3 compiler ([http://www.microsoft.com/express/vcsharp/ Visual C# 2008 Express] is ideal).
+
+== Details ==
+
+  # Check out the code to a local working copy using the URL `http://cogwheel.googlecode.com/svn/trunk/`.
+  # Open the solution file `Cogwheel.sln`.
+  # Set `Cogwheel SlimDX` as the startup project.
+
+Hopefully by this point you should be able to build and run the project in either debug or release mode.
+
+== More Information ==
+
+You can [http://code.google.com/p/cogwheel/source/browse browse the source] (doesn't work in Opera) or view the [http://code.google.com/p/cogwheel/source/list revision log] online through your browser if you so wish.
