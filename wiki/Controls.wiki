@@ -1,0 +1,15 @@
+#summary Describes the input methods provided by the interface.
+
+= Controls =
+
+The Cogwheel interface currently supports keyboard input only, and only provides access to a single joypad.
+
+== Default Keys ==
+
+|| *Console function* || *Keyboard* ||
+|| 1 || Ctrl ||
+|| 2 || Alt ||
+|| Direction pad || Cursor keys ||
+|| Start _(Game Gear)_ || Space ||
+|| Pause _(SMS)_ || Space ||
+|| Soft reset _(SMS)_ || Backspace ||
