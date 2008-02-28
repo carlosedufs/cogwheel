@@ -2,9 +2,11 @@
 
 = Controls =
 
-The Cogwheel interface currently supports keyboard input only, and only provides access to a single joypad.
+The Cogwheel interface currently supports keyboard input only.
 
 == Default Keys ==
+
+By default, only the player 1 joypad is configured.
 
 || *Console function* || *Keyboard* ||
 || 1 || Ctrl ||
@@ -13,3 +15,5 @@ The Cogwheel interface currently supports keyboard input only, and only provides
 || Start _(Game Gear)_ || Space ||
 || Pause _(SMS)_ || Space ||
 || Soft reset _(SMS)_ || Backspace ||
+
+You can customise the controls using the _Tools_->_Customise Controls_ dialog.
