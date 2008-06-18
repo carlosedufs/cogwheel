@@ -17,4 +17,4 @@ Hopefully by this point you should be able to build and run the project in eithe
 
 == More Information ==
 
-You can [http://code.google.com/p/cogwheel/source/browse browse the source] (doesn't work in Opera) or view the [http://code.google.com/p/cogwheel/source/list revision log] online through your browser if you so wish.
+You can [http://code.google.com/p/cogwheel/source/browse browse the source] or view the [http://code.google.com/p/cogwheel/source/list revision log] online through your browser if you so wish.
