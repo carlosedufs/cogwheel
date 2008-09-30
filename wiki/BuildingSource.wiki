@@ -1,16 +1,19 @@
 #summary Building the project from source.
 
-To build the latest version of Cogwheel, you can check out the source and build it yourself using free tools.
+To build the latest version of Cogwheel, you can check out the source and build it yourself using free tools. The software has been developed with Visual Studio 2008 in mind.
 
 == Requirements ==
 
  * An SVN client (such as [http://tortoisesvn.tigris.org/ TortoiseSVN]).
  * A C#3 compiler ([http://www.microsoft.com/express/vcsharp/ Visual C# 2008 Express] is ideal).
+ * A C compiler ([http://www.microsoft.com/express/vc/ Visual C++ 2008 Express] is ideal).
 
 == Details ==
 
   # Check out the code to a local working copy using the URL `http://cogwheel.googlecode.com/svn/trunk/`.
-  # Open the solution file `Cogwheel.sln`.
+  # Open the solution file `emu2413\emu2413.sln` in VC++.
+  # Build it once in Debug mode and once in Release mode. It should create the files `Cogwheel SlimDX\bin\Debug\emu2413.dll` and `Cogwheel SlimDX\bin\Release\emu2413.dll`.
+  # Open the solution file `Cogwheel.sln` in VC#.
   # Set `Cogwheel SlimDX` as the startup project.
 
 Hopefully by this point you should be able to build and run the project in either debug or release mode.
