@@ -6,12 +6,14 @@ To build the latest version of Cogwheel, you can check out the source and build 
 
  * An SVN client (such as [http://tortoisesvn.tigris.org/ TortoiseSVN]).
  * A C#3 compiler ([http://www.microsoft.com/express/vcsharp/ Visual C# 2008 Express] is ideal).
+ * [http://slimdx.org/download.php SlimDX developer SDK].
 
 == Details ==
 
-  # Check out the code to a local working copy using the URL `http://cogwheel.googlecode.com/svn/trunk/`.
-  # Open the solution file `Cogwheel.sln` in VC#.
-  # Set `Cogwheel SlimDX` as the startup project.
+ # Install the SlimDX developer SDK.
+ # Check out the code to a local working copy using the URL `http://cogwheel.googlecode.com/svn/trunk/`.
+ # Open the solution file `Cogwheel.sln` in VC#.
+ # Set `Cogwheel SlimDX` as the startup project.
 
 Hopefully by this point you should be able to build and run the project in either debug or release mode.
 
